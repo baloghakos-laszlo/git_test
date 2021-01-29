@@ -1,0 +1,1 @@
+This is akos's firt git project!
